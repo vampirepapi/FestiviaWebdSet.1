@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css?family=Nixie+One');
+@import url('https://fonts.googleapis.com/css?family=Raleway:300,400,700');
+.wrap {
+  max-width: 100%;
+  margin: 0 auto;
+  text-align: center;
+  padding-top: 2rem;
+  background: linear-gradient(to bottom, #ffffff 27%, #66ffff 97%);
+  font-family: 'Raleway', sans-serif;
+}
+
+h1 {
+  font-size: 3rem;
+}
+p {
+  font-size: 1.5rem;
+  line-height: 1.5;
+}
+h1, p {
+  margin-bottom: 2rem;
+}
+a {
+  color: #f45;
+}
+.btn {
+  background: #0bd;
+  padding: 10px 15px;
+  border-radius: 5px;
+  display: inline-block;
+  color: #fff;
+  text-decoration: none;
+}
+
+footer {
+      position: bottom;
+      left: 0;
+      bottom: 0;
+      width: 100%;
+      margin: 0 auto;
+      padding: 7px 15px;
+
+      background: #1e1f26;
+      color: #FFF;
+      font-size: 1em;
+  }
+
+  footer p {
+        margin: 10px auto;
+        max-width: 1280px;
+        box-sizing: border-box;
+        text-align: center;
+    }
